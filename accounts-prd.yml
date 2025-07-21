@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to SpringBank accounts related prd APIs "
   contactDetails:
     name: "Ganesh Shet - PRD Lead"
-    email: "ganesh@springbank.com"
+    email: "{cipher}dd8630a80046192f0e1f26dc270b85ee0a7b6e974d17456977befead6b9c012a299630c05f3993135eaae84280b452aa"
   onCallSupport:
     - (666) 265-3764
     - (666) 734-8373
